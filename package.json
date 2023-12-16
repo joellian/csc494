@@ -1,0 +1,24 @@
+{
+  "name": "assignment-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.2.0",
+    "solc": "^0.8.23",
+    "web3": "^1.0.0-beta.26"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10"
+  },
+  "description": ""
+}
